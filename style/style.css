@@ -1,0 +1,70 @@
+
+    
+    
+body{
+    background-color: floralwhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+
+h1{
+   font-family: 'Courier New', Courier, monospace;
+    color: rgb(76, 1, 214);
+    
+}
+
+a{
+text-decoration: none;
+color: teal;
+
+}
+a:hover{
+color: rgb(5, 56, 56);
+}
+a:active{
+color: rgb(0, 85, 50);
+}
+.imgClass{
+    
+    border: rgb(27, 27, 25) 2px solid;
+    padding-top: 0px;   
+    width: 500px;
+    border-radius: 2px;
+    }
+
+.TitleStyle{
+      
+        font-size: 70px;
+        color: darkcyan;
+       text-align: center; 
+       background-color: lightcyan;
+       background-size: 30px 10px;
+    }
+    
+.SmallStyle{
+        padding: 1vw;
+        border-radius:10px;
+        border: sandybrown dashed;
+        font-size:30px;
+        background-color: lavenderblush;
+        margin: 10px;
+        line-break: normal;
+        line-height: 50px;
+    
+    }
+
+.ImageText{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+    padding-bottom: -20px;
+    padding-left: 20px;
+}
+.smol{
+    font-size: 20px;
+    
+
+}
+.YTLink{
+    font-size: 30px;
+    color: rgb(95, 68, 145);
+}
